@@ -30,8 +30,8 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <a href= "/emes/"><img src="https://lhf552004.github.io/images/EMes.png" alt="teaser" itemprop="image"/><h2 class="post-title">E-MES</h2></a>
-  <p class="post-excerpt">Electronic MES.</p>
+  <a href= "/flcos2/"><img src="https://lhf552004.github.io/images/FLCos.jpg" alt="teaser" itemprop="image"/><h2 class="post-title">FLCos</h2></a>
+  <p class="post-excerpt">Fast Light Control System.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
