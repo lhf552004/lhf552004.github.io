@@ -30,7 +30,7 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <a href= "/flcos2-demo/"><img src="https://lhf552004.github.io/images/FLCos.jpg" alt="teaser" itemprop="image"/><h2 class="post-title">FLCos</h2></a>
+  <a href= "/flcos2/"><img src="https://lhf552004.github.io/images/FLCos.jpg" alt="teaser" itemprop="image"/><h2 class="post-title">FLCos</h2></a>
   <p class="post-excerpt">Fast Light Control System.</p>
 </div><!-- /.tile -->
 
